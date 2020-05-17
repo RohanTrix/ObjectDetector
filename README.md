@@ -14,4 +14,4 @@ YOLOv3-320 was implemented in this version
 ![IMG](https://i.ibb.co/7JXW9hJ/Image.png)
 
 ## :page_facing_up: Dataset Source
->  [Darnet ](https://pjreddie.com/darknet/yolo/)
+>  [Darknet ](https://pjreddie.com/darknet/yolo/)
